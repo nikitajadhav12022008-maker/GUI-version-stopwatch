@@ -58,6 +58,8 @@ python stopwatch_gui.py
 ----------
 
 ##👩‍💻 Author:
+Nikita Jadhav
+----
 Made for learning Python GUI development.
 
 
