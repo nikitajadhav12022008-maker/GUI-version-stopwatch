@@ -1,4 +1,4 @@
-##python based Stopwatch GUI version:
+##P    ython based Stopwatch GUI version:
 # Import tkinter for GUI creation
 import tkinter as tk
 
@@ -105,3 +105,4 @@ update_time()
 
 # Keeps the window running
 root.mainloop()
+
