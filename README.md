@@ -23,11 +23,13 @@ This project demonstrates event handling and real-time updates using the Tkinter
 
 ---
 
-##📂 Project Structure:
-stopwatch/
-│── stopwatch_gui.py
-│── README.md
------
+## 📂 Project Structure:
+
+- stopwatch/
+= │── stopwatch_gui.py
+- │── README.md
+
+----
 
 ##▶️ How to Run:
 Make sure Python 3 is installed
