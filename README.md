@@ -6,12 +6,14 @@ This project demonstrates event handling and real-time updates using the Tkinter
 
 ---
 
-##✨ Features:
--Start the timer
--Stop/Pause the timer
--Reset to 00:00
--Real-time second updates
--Simple graphical interface
+## ✨ Features:
+
+- Start the timer
+- Stop/Pause the timer
+- Reset to 00:00
+- Real-time second updates
+- Simple graphical interface
+
 ------
 
 ##🖥️ Technologies Used:
