@@ -1,8 +1,10 @@
-##⏱️ Stopwatch Application (Python Tkinter):
+## ⏱️ Stopwatch Application (Python Tkinter):
+
 A simple desktop stopwatch built using Python and Tkinter GUI library.
 The stopwatch can start, stop, and reset time in real-time.
 This project demonstrates event handling and real-time updates using the Tkinter event loop.
-------
+
+---
 
 ##✨ Features:
 -Start the timer
