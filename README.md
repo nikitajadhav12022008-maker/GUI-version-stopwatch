@@ -14,12 +14,14 @@ This project demonstrates event handling and real-time updates using the Tkinter
 - Real-time second updates
 - Simple graphical interface
 
-------
+--
 
-##🖥️ Technologies Used:
--Python 3
--Tkinter (built-in GUI library)
---------
+## 🖥️ Technologies Used:
+
+- Python 3
+- Tkinter (built-in GUI library)
+
+---
 
 ##📂 Project Structure:
 stopwatch/
