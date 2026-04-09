@@ -14,7 +14,8 @@ This project demonstrates event handling and real-time updates using the Tkinter
 - Real-time second updates
 - Simple graphical interface
 
---
+ -----
+
 
 ## 🖥️ Technologies Used:
 
