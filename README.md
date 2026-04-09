@@ -31,6 +31,15 @@ This project demonstrates event handling and real-time updates using the Tkinter
 
 ----
 
+## 🧠 How It Works:
+
+- The program uses Tkinter's after() function to update time every 1000 milliseconds
+- Start button begins counting
+- Stop pauses the counter
+- Reset clears the timer
+ 
+----
+
 ##▶️ How to Run:
 Make sure Python 3 is installed
 clone the repository!
@@ -39,12 +48,7 @@ Run the program
 python stopwatch_gui.py
 ---------
 
-##🧠 How It Works:
--The program uses Tkinter's after() function to update time every 1000 milliseconds
--Start button begins counting
--Stop pauses the counter
--Reset clears the timer
-------
+
 
 ##📸 Sample Output:
 00:00 → Start → 00:01 → 00:02 → Stop → Reset → 00:00
