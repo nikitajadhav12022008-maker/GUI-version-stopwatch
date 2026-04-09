@@ -50,6 +50,15 @@ This project demonstrates event handling and real-time updates using the Tkinter
 
 -----
 
+## 🚀 Future Improvements:
+
+- Milliseconds support
+- Lap timer feature
+- Dark mode theme
+- Sound notification
+
+----
+
 ##▶️ How to Run:
 Make sure Python 3 is installed
 clone the repository!
@@ -66,12 +75,7 @@ python stopwatch_gui.py
 
 
 
-##🚀 Future Improvements:
--Milliseconds support
--Lap timer feature
--Dark mode theme
--Sound notification
-----------
+
 
 ##👩‍💻 Author:
 Nikita Jadhav
