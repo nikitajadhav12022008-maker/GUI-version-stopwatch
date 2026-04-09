@@ -40,6 +40,16 @@ This project demonstrates event handling and real-time updates using the Tkinter
  
 ----
 
+## 🎯 Learning Objectives:
+
+- This project helps understand:
+- GUI programming
+- Functions & global variables
+- Event-driven programming
+- Time handling using loops
+
+-----
+
 ##▶️ How to Run:
 Make sure Python 3 is installed
 clone the repository!
@@ -54,13 +64,7 @@ python stopwatch_gui.py
 00:00 → Start → 00:01 → 00:02 → Stop → Reset → 00:00
 -------
 
-##🎯 Learning Objectives:
--This project helps understand:
--GUI programming
--Functions & global variables
--Event-driven programming
--Time handling using loops
----------
+
 
 ##🚀 Future Improvements:
 -Milliseconds support
