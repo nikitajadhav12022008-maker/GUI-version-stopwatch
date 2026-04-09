@@ -61,29 +61,26 @@ This project demonstrates event handling and real-time updates using the Tkinter
 
 ## 📸 Sample Output:
 
-00:00 → Start → 00:01 → 00:02 → Stop → Reset → 00:00
+- 00:00 → Start → 00:01 → 00:02 → Stop → Reset → 00:00
 
 ---
 
 
-##▶️ How to Run:
-Make sure Python 3 is installed
-clone the repository!
-Run the program
+## ▶️ How to Run:
+
+- Make sure Python 3 is installed
+- clone the repository!
+- Run the program
 ``bash
 python stopwatch_gui.py
----------
 
-
-
-
-
-
-
-
-##👩‍💻 Author:
-Nikita Jadhav
 ----
+
+## 👩‍💻 Author:
+
+Nikita Jadhav
+
+---
 Made for learning Python GUI development.
 
 
